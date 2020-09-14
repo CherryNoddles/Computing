@@ -2,4 +2,5 @@
 #Please help me fix it. :)
 
 name = iput("What is your name?")
-print("Hello" + name  Have a fantastic day ahead!")
+print("Hello Wynne Have a fantastic day ahead!")
+(Changed error)
